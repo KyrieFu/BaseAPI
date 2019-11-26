@@ -1,0 +1,8 @@
+D:\Kyrie\框架\BaseAPI\DataModel\bin\Debug\netstandard2.0\DataModel.deps.json
+D:\Kyrie\框架\BaseAPI\DataModel\bin\Debug\netstandard2.0\DataModel.dll
+D:\Kyrie\框架\BaseAPI\DataModel\bin\Debug\netstandard2.0\DataModel.pdb
+D:\Kyrie\框架\BaseAPI\DataModel\obj\Debug\netstandard2.0\DataModel.csprojAssemblyReference.cache
+D:\Kyrie\框架\BaseAPI\DataModel\obj\Debug\netstandard2.0\DataModel.AssemblyInfoInputs.cache
+D:\Kyrie\框架\BaseAPI\DataModel\obj\Debug\netstandard2.0\DataModel.AssemblyInfo.cs
+D:\Kyrie\框架\BaseAPI\DataModel\obj\Debug\netstandard2.0\DataModel.dll
+D:\Kyrie\框架\BaseAPI\DataModel\obj\Debug\netstandard2.0\DataModel.pdb

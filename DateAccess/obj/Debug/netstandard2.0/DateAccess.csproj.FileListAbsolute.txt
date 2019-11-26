@@ -1,0 +1,8 @@
+D:\Kyrie\框架\BaseAPI\DateAccess\bin\Debug\netstandard2.0\DateAccess.deps.json
+D:\Kyrie\框架\BaseAPI\DateAccess\bin\Debug\netstandard2.0\DateAccess.dll
+D:\Kyrie\框架\BaseAPI\DateAccess\bin\Debug\netstandard2.0\DateAccess.pdb
+D:\Kyrie\框架\BaseAPI\DateAccess\obj\Debug\netstandard2.0\DateAccess.csprojAssemblyReference.cache
+D:\Kyrie\框架\BaseAPI\DateAccess\obj\Debug\netstandard2.0\DateAccess.AssemblyInfoInputs.cache
+D:\Kyrie\框架\BaseAPI\DateAccess\obj\Debug\netstandard2.0\DateAccess.AssemblyInfo.cs
+D:\Kyrie\框架\BaseAPI\DateAccess\obj\Debug\netstandard2.0\DateAccess.dll
+D:\Kyrie\框架\BaseAPI\DateAccess\obj\Debug\netstandard2.0\DateAccess.pdb
